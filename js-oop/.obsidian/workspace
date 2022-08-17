@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "7d1c59c05a13a75d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b388a53ed5dd2813",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "primitives_and_objects.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c53e8d3bf2984333",
+    "type": "split",
+    "children": [
+      {
+        "id": "802823884ddaeaca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56b7e3b4d2731bd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5d7d6cd63435160",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c3a9a46821f621",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5cecca59237d6f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7382cd70bfe9252a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "primitives_and_objects.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b388a53ed5dd2813",
+  "lastOpenFiles": [
+    "primitives_and_objects.md",
+    "object_creation.md",
+    "functions_and_methods.md",
+    "setting_`this`_explicitly.md",
+    "scopes_and_closures.md",
+    "pseudo_classical_pattern.md",
+    "prototypal_behavior_sharing.md",
+    "object_orientation.md",
+    "losing_track_of_`this`.md",
+    "inheritance_chain.md"
+  ]
+}

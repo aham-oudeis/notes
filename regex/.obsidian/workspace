@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "c5af1cc30f551a92",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d6fc0dba24d07a3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e7b7fd077a105f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2b53604c391f896",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bce55e0217ff4a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "89324d1aa4edbc87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89387f35b5e24e8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d4520a4c5bf2bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e429107124db2c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8d6fc0dba24d07a3",
+  "lastOpenFiles": [
+    "meta characters.md",
+    "white space.md",
+    "repeat modifiers.md",
+    "alternative execution.md",
+    "literal characters.md"
+  ]
+}

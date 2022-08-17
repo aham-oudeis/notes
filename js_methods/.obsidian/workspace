@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "b154653cc25c6716",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b085038a09bcef",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c6f6973fc49bed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c2d60b9aeb22fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c714dfe9acb3c570",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc843223c7bf0fae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b600a4e433afd5da",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9d173270fb4ed92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61df0de37a5aac06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "18b085038a09bcef",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "interrogation.md",
+    "reduce.md",
+    "transformation.md",
+    "filtering.md",
+    "iteration.md",
+    "list processing abstraction.md"
+  ]
+}

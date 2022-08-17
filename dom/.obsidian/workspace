@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "03b0cb79a3f82802",
+    "type": "split",
+    "children": [
+      {
+        "id": "7145c065887a47e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "handlebars.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6910f2596799eb89",
+    "type": "split",
+    "children": [
+      {
+        "id": "883f7dbaa089d5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22600febdf2b969e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c3bb51abb019f2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 191.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "559830737ce8ad57",
+    "type": "split",
+    "children": [
+      {
+        "id": "70d9a976f327b64b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7325094063116284",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "handlebars.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7145c065887a47e8",
+  "lastOpenFiles": [
+    "handlebars.md",
+    "javascript_libraries.md",
+    "jQuery.md",
+    "Event-driven and asynchronous.md",
+    "Event Loop.md",
+    "Async Operations.md",
+    "Submitting via XHR.md",
+    "Pasted image 20220601200609.png",
+    "Making HTTP request from JS.md",
+    "HTML_data_attribute.md"
+  ]
+}
