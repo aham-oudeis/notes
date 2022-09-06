@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Night Owl",
+  "baseFontSize": 30,
+  "interfaceFontFamily": "Georgia",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+}

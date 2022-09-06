@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "291dc2e2b7409bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cede5aaa3002407c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Systems-Design/setting vps.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3449e5cef563234",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce06d65842077ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28913d9ec2af21b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27c5432156590f64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 166.5
+  },
+  "right": {
+    "id": "01020968aeac1167",
+    "type": "split",
+    "children": [
+      {
+        "id": "2204915433901bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc3cd2a1aa01955b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Systems-Design/setting vps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cede5aaa3002407c",
+  "lastOpenFiles": [
+    "Fullstack/Express.md",
+    "Systems-Design/setting vps.md",
+    "Systems-Design/Nginx.md",
+    "Systems-Design/Key terms.md",
+    "Systems-Design/logs.md",
+    "sessions/linked_lists.md",
+    "sessions/first day.md",
+    "algoritms/start-end pointers.md",
+    "algoritms/binary-search.md",
+    "algoritms/anchor-runner.md"
+  ]
+}
