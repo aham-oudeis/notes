@@ -1,4 +1,8 @@
 ## Reverse Proxy Server
+
+## good crash course
+https://www.youtube.com/watch?v=7VAI73roXaY
+
 #### Benefits
 1. can handle concurrent clients and more web traffic better than Apache
 2. serve static assests faster

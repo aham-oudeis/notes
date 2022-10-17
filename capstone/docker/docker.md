@@ -12,7 +12,7 @@ This creates an image in the docker daemon. This image can be run and/or pushed 
 ## Images
 The blueprints of our application which form the basis of containers.
 
-Images are composed of layers and hence downloading different versions do not require less time once one version is already downloaded.
+Images are composed of layers and hence downloading different versions require less time once one version is already downloaded.
 
 artifact that can be moved around
 

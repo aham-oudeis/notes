@@ -1,6 +1,96 @@
 .markdown-source-view,
 .markdown-preview-view {
   padding-left: 70px;
-  margin-left: 50px;
+  padding-right: 50px;
+  margin-right: 100px;
   font-size: 24px;
+}
+
+.mm-node-content strong {
+  font-weight: 600 !important;
+  color: #ff0000 !important;
+}
+
+::-webkit-scrollbar {
+  width: 20px !important;
+  padding-left: 20px;
+  margin-left: 20px;
+}
+/* Cursor color in normal vim mode and opacity */
+.cm-fat-cursor .CodeMirror-cursor,
+.cm-animate-fat-cursor {
+  width: 0.5em;
+  background: #d65d0e;
+  opacity: 60% !important;
+}
+
+/*an active line highlight in vim normal mode */
+.cm-fat-cursor .CodeMirror-activeline .CodeMirror-linebackground {
+  background-color: rgba(89, 75, 95, 0.99) !important;
+}
+
+/*if you want the highlight to present in both normal and insert mode of vim*/
+.CodeMirror-activeline .CodeMirror-linebackground {
+  background-color: rgba(89, 75, 95, 0.99) !important;
+}
+
+/* Add quotation character before quote */
+blockquote:before {
+  font: 14px/20px italic Times, serif;
+  content: "“";
+  font-size: 3em;
+  line-height: 0.1em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+blockquote {
+  border: none !important;
+  padding: 0 20px;
+}
+
+blockquote .task-list-item {
+  font-family: var(--font-stack-ui) !important;
+  font-size: var(--font-size-secondary) !important;
+  line-height: 1.35em;
+  font-style: normal;
+  position: absolute;
+  text-align: justify;
+  z-index: 1;
+  color: var(--text-faint) !important;
+  right: min(calc(50% + 0.5 * var(--line-width) + 2.5em), calc(100% - 3.5em));
+  width: calc(50% - 0.5 * var(--line-width) - 3em);
+  max-width: calc(0.66 * var(--line-width));
+  min-width: 3em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-block-start: 0 !important;
+  margin-block-end: 0 !important;
+  text-indent: 0 !important;
+}
+blockquote .task-list-item > .task-list-item-checkbox {
+  appearance: none;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  background: none !important;
+  background-color: transparent !important;
+  margin: 0 !important;
+  border: none;
+  cursor: pointer;
+}
+blockquote .task-list-item.is-checked {
+  z-index: 999;
+  color: var(--text-normal) !important;
+  right: min(calc(50% + 0.5 * var(--line-width) + 2.5em), calc(100% - 12.5em));
+  min-width: 12em;
+  overflow: visible;
+  max-height: none;
+  white-space: normal;
+  text-decoration: none !important;
 }

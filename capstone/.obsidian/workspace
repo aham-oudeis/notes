@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cede5aaa3002407c",
+        "id": "2a389d52c4862e37",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Systems-Design/setting vps.md",
+            "file": "microservices/api gateway in microservices.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5
+    "width": 232
   },
   "right": {
     "id": "01020968aeac1167",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems-Design/setting vps.md",
+                "file": "microservices/api gateway in microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cede5aaa3002407c",
+  "active": "2a389d52c4862e37",
   "lastOpenFiles": [
-    "Fullstack/Express.md",
-    "Systems-Design/setting vps.md",
-    "Systems-Design/Nginx.md",
-    "Systems-Design/Key terms.md",
-    "Systems-Design/logs.md",
-    "sessions/linked_lists.md",
-    "sessions/first day.md",
-    "algoritms/start-end pointers.md",
-    "algoritms/binary-search.md",
-    "algoritms/anchor-runner.md"
+    "microservices/migrating a monolith.md",
+    "microservices/Microservices traffic.md",
+    "microservices/multicloud.md",
+    "microservices/communication.md",
+    "microservices/api gateway in microservices.md",
+    "microservices/service discovery.md",
+    "microservices/real world microservices.md",
+    "microservices/gRPC.md",
+    "microservices/reading list.md",
+    "microservices/why microservices.md"
   ]
 }

@@ -1,9 +1,12 @@
 {
-  "cssTheme": "Night Owl",
-  "baseFontSize": 30,
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 24,
   "interfaceFontFamily": "Georgia",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
+    "image-zoom",
     "obsidian"
-  ]
+  ],
+  "textFontFamily": "Brill",
+  "monospaceFontFamily": "Andale Mono"
 }
